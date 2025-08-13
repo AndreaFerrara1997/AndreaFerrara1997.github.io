@@ -18,3 +18,8 @@
 .greedy-nav a:hover {
   color: #000 !important; /* black on hover */
 }
+
+/* Hide the dark/light mode toggle button */
+.js-toggle-dark-mode {
+  display: none !important;
+}
