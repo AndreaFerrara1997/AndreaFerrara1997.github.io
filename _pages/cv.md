@@ -11,6 +11,6 @@ author_profile: true
 
 - Ph.D., Economics, Northwestern University, 2026 (Expected)
 - M.A. Economics, Northwestern University, 2022
-- M. Sc. Economics, Enaudi Institute for Economics and Finance \& LUISS, 2018 - 2020
+- M. Sc. Economics, Enaudi Institute for Economics and Finance & LUISS, 2018 - 2020
 - B.A. Economics, Università degli Studi di Firenze, 2016 - 2018
 
