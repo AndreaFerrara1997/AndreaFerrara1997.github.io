@@ -1,12 +1,11 @@
 ---
 title: "A Sample Paper Title"
 collection: publications
-permalink: /publication/sample-paper/
+permalink: /publication/Restud2025/
 date: 2025-08-13
 venue: "Journal of Example"
-authors: "Andrea Ferrara"
-paperurl: /files/sample_paper.pdf
+authors: "with F. Alvarez, E. Gautier, 
+H. Le Bihan \& F. Lippi,"
+paperurl: /files/Restud2025.pdf
 citation: "Ferrara, A. (2025). A Sample Paper Title. Journal of Example."
 ---
-
-**Abstract.** Short abstract goes here. Replace this file with your real paper’s info.
