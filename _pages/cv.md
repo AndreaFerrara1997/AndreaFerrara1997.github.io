@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download CV (PDF)](/files/CV_AndreaFerrara.pdf){: .btn .btn--primary .btn--large }
+[Download CV (PDF)](/files/CV_Ferrara_Feb_2025.pdf){: .btn .btn--primary .btn--large }
 
 ## Education
 
