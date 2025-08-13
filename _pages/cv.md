@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Download CV here (/files/CV_Ferrara_Feb_2025.pdf)
+Download CV here(/files/CV_Ferrara_Feb_2025.pdf)
 
 ## Education
 - Ph.D., Economics, Northwestern University, 2026 (Expected)
