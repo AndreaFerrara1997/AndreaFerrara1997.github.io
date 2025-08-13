@@ -21,7 +21,7 @@ author_profile: true
   </object>
 </div>
 
-
+## Education
 
 Ph.D., Economics, Northwestern University, 2020 - 2026 (Expected)
 M.A. Economics, Northwestern University, 2022
