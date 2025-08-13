@@ -11,26 +11,15 @@ minimal_mistakes_skin: "default"
 author:
   name: "Andrea Ferrara"
   avatar: "/images/profile.jpg"
-  bio: "."
-  location: "Italy"
+  bio: "**Andrea Ferrara**"
   email: "andr.ferrara1@gmail.com"
-  googlescholar: ""
-  orcid: ""
-  github: "AndreaFerrara1997"
-  linkedin: ""
 
 # Collections that AcademicPages expects
 collections:
-  posts:
-    output: false
-  teaching:
-    output: false
   publications:
     output: true
   cv:
     output: true
-  talks:
-    output: false
 
 # Plugins typically used by AcademicPages
 plugins:
