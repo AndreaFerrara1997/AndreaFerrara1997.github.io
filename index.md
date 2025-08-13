@@ -10,3 +10,8 @@ I am a sixth year PhD Candidate in Economics Northwestern University. My researc
 I will be on the job market during the 2025-2026 academic year.
 
 Email: andr.ferrara1@gmail.com
+
+# Working Papers
+
+# Publications
+{% include cv/education.md %}
