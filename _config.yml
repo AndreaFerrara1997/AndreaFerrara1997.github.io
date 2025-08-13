@@ -7,6 +7,8 @@ url: "https://AndreaFerrara1997.github.io"
 # Skin and theme options used by AcademicPages (inherits from Minimal Mistakes)
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
+# Disable appearance (dark mode) toggle
+enable_theme_toggle: false
 
 # Author info used in sidebar
 author:
