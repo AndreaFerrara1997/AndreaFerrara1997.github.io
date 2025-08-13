@@ -7,7 +7,7 @@ author_profile: true
 
 [Download CV here](/files/CV_Ferrara_Feb_2025.pdf)
 
-<h2 style="border-top:none; margin-top:0;">Education</h2>
+## Education
 
 - Ph.D., Economics, Northwestern University, 2026 (Expected)
 - M.A. Economics, Northwestern University, 2022
