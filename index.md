@@ -14,3 +14,4 @@ Email: andr.ferrara1@gmail.com
 # Working Papers
 
 # Publications
+{% include publications.md %}
