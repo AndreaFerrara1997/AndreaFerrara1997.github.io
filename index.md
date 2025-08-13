@@ -11,6 +11,8 @@ I will be on the job market during the 2025-2026 academic year.
 
 Email: andr.ferrara1@gmail.com
 
+[Download CV here](/files/CV_Ferrara_Feb_2025.pdf)
+
 # Working Papers
 {% include workingpapers.md %}  
 
