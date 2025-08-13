@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Working Papers"
-    url: /working_papers/
+    url: /workingpapers/
   - title: "Publications"
     url: /publications/
   - title: "CV"
