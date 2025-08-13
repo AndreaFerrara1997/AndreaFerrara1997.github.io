@@ -12,7 +12,6 @@ minimal_mistakes_skin: "default"
 author:
   name: "Andrea Ferrara"
   avatar: "/images/profile.jpg"
-  bio: "**Andrea Ferrara**"
   email: "andr.ferrara1@gmail.com"
 
   # Build: include _pages so /publications/ works
