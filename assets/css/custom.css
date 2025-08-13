@@ -3,3 +3,18 @@
   border-top: none;
   padding-top: 0;
 }
+
+/* Bigger site title in the header */
+.site-title {
+  font-size: 2rem; /* default is about 1.5rem */
+}
+
+/* Make nav links gray */
+.greedy-nav a {
+  color: #666 !important; /* medium gray */
+}
+
+/* Optional: change nav link hover color */
+.greedy-nav a:hover {
+  color: #000 !important; /* black on hover */
+}
