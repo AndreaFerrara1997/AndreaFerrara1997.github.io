@@ -26,6 +26,7 @@ collections:
 # Plugins typically used by AcademicPages
 plugins:
   - jekyll-include-cache
+  - ⁠jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
 
