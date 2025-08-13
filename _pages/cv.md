@@ -5,7 +5,21 @@ permalink: /cv/
 author_profile: true
 ---
 
-Download my CV: [PDF](/files/CV_Ferrara_Feb_2025.pdf)
+[Download CV (PDF)](/files/CV_AndreaFerrara.pdf){: .btn .btn--primary .btn--large }
+[Open in new tab](/files/CV_AndreaFerrara.pdf){: .btn .btn--outline }
+
+<div style="margin-top:1rem; border:1px solid #e5e5e5; height: 100vh;">
+  <object
+    data="/files/CV_AndreaFerrara.pdf#view=FitH"
+    type="application/pdf"
+    width="100%"
+    height="100%">
+    <p>
+      Your browser can’t display PDFs here.
+      <a href="/files/CV_AndreaFerrara.pdf">Click to download the CV.</a>
+    </p>
+  </object>
+</div>
 
 
 
