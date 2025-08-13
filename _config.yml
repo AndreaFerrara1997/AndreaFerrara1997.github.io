@@ -13,7 +13,7 @@ author:
   avatar: "/images/profile.jpg"
   bio: "Economist. Macro/monetary policy, DSGE, Bayesian estimation."
   location: "Italy"
-  email: "you@example.com"
+  email: "andr.ferrara1@gmail.com"
   googlescholar: ""
   orcid: ""
   github: "YOUR_USERNAME"
@@ -22,15 +22,15 @@ author:
 # Collections that AcademicPages expects
 collections:
   posts:
-    output: true
+    output: false
   teaching:
-    output: true
+    output: false
   publications:
     output: true
   portfolio:
-    output: true
+    output: false
   talks:
-    output: true
+    output: false
 
 # Plugins typically used by AcademicPages
 plugins:
