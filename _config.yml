@@ -27,8 +27,8 @@ collections:
     output: false
   publications:
     output: true
-  portfolio:
-    output: false
+  cv:
+    output: true
   talks:
     output: false
 
