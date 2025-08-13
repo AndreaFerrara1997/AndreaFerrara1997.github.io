@@ -5,4 +5,4 @@ permalink: /
 author_profile: true
 ---
 
-Hi, I'm **Andrea Ferrara**. 
+I am a sixth year PhD Candidate in Economics Northwestern University. My research focuses on Monetary Economics.
