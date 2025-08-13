@@ -1,6 +1,6 @@
 # --- Basic site info ---
 title: "Andrea Ferrara"
-email: "you@example.com"
+email: "andr.ferrara1@gmail.com"
 description: "Researcher in macroeconomics and monetary policy"
 url: "https://AndreaFerrara1997.github.io"
 
@@ -11,7 +11,7 @@ minimal_mistakes_skin: "default"
 author:
   name: "Andrea Ferrara"
   avatar: "/images/profile.jpg"
-  bio: "Economist. Macro/monetary policy, DSGE, Bayesian estimation."
+  bio: "."
   location: "Italy"
   email: "andr.ferrara1@gmail.com"
   googlescholar: ""
