@@ -1,0 +1,8 @@
+---
+layout: archive
+title: "Working Papers"
+permalink: /workingpapers/
+author_profile: true
+---
+
+{% include workingpapers.md %}
