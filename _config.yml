@@ -5,6 +5,7 @@ description: "Researcher in macroeconomics and monetary policy"
 url: "https://AndreaFerrara1997.github.io"
 
 # Skin and theme options used by AcademicPages (inherits from Minimal Mistakes)
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
 # Author info used in sidebar
@@ -13,6 +14,10 @@ author:
   avatar: "/images/profile.jpg"
   bio: "**Andrea Ferrara**"
   email: "andr.ferrara1@gmail.com"
+
+  # Build: include _pages so /publications/ works
+include:
+  - _pages
 
 # Collections that AcademicPages expects
 collections:
