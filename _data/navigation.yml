@@ -1,5 +1,7 @@
 # Controls the top navigation
 main:
+  - title: "Working Papers"
+    url: /working_papers/
   - title: "Publications"
     url: /publications/
   - title: "CV"
