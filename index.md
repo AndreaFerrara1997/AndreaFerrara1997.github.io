@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Home"
+title: "Andrea Ferrara"
 permalink: /
 author_profile: true
 ---
