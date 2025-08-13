@@ -1,0 +1,2 @@
+[Empirical Investigation of a Sufficient Statistic for Monetary Shocks](/files/Restud2025) (with [F. Alvarez](https://alvarezfernando.com), [E. Gautier](https://sites.google.com/site/erwangautiereconomics/), [H. Le Bihan](https://www.banque-france.fr/en/herve-le-bihan), and [F. Lippi](https://sites.google.com/view/francesco-lippi/bio))   
+**Review of Economic Studies**, Volume 92, Issue 4, July 2025
