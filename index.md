@@ -5,7 +5,9 @@ permalink: /
 author_profile: true
 ---
 
-I am a sixth year PhD Candidate in Economics Northwestern University. My research concerns macroeconomic dynamics and monetary economics.
+I am a sixth year PhD candidate in Economics Northwestern University, working on macroeconomics.  
+
+My research concerns macroeconomic dynamics and monetary economics.
 
 I will be on the job market during the 2025-2026 academic year.
 
