@@ -13,7 +13,7 @@ enable_theme_toggle: false
 # Author info used in sidebar
 author:
   name: "Andrea Ferrara"
-  avatar: "/images/PhotoJM.jpg"
+  avatar: "PhotoJM.jpg"
   email: "andr.ferrara1@gmail.com"
 
   # Build: include _pages so /publications/ works
