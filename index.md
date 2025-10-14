@@ -17,8 +17,12 @@ Email: andr.ferrara1@gmail.com
 
 # Job Market Paper
 <span class="archive__item-title" style="color:#52ADC8; text-decoration:underline;">Why the Federal Reserve cuts rates when public debt rises</span> <span style="color:gray;">(draft coming soon)</span>   
-<small> with <span class="archive__item-title" style="color:#52ADC8; text-decoration:underline;">Luca Zanotti</span>  </small>
+<small> with <span class="archive__item-title" style="color:#52ADC8; text-decoration:underline;">Luca Zanotti</span> </small>
 <style>
+  details {
+  margin-top: 0.5em;   /* space between title and Abstract link */
+  margin-bottom: 1.5em; /* space after Abstract section */
+}
 details summary::-webkit-details-marker { display:none; }
 details summary { list-style: none; }
 </style>
