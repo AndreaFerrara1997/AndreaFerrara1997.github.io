@@ -9,7 +9,6 @@ author_profile: true
            margin-bottom: 1.5em; /* space after Abstract section */ }
 details summary::-webkit-details-marker { display:none; }
 details summary { list-style: none; }
-small { display:block; margin:0 0 0.1em 0 !important; line-height:0; }
 </style>
 
 I am a sixth year PhD candidate in Economics Northwestern University, working on macroeconomics.  
