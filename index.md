@@ -23,5 +23,10 @@ Email: andr.ferrara1@gmail.com
 # Working Papers
 {% include workingpapers.md %}  
 
+# Work in Progress
+<span class="archive__item-title" style="color:#52ADC8; text-decoration:underline;">A State Space Approach to Instrument Selection</span> <span style="color:gray;">
+</span><br>
+<small>with [Michael Cai](https://www.michaelcai.com)</small>
+
 # Publications
 {% include publications.md %}
