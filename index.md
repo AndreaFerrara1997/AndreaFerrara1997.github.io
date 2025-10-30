@@ -16,7 +16,7 @@ Email: andr.ferrara1@gmail.com
 {% include cv.md %}
 
 # Job Market Paper
-[Why the Federal Reserve Cuts Rates when Public Debt Rises](https://andreaferrara1997.github.io/files/JMP_AndreaFerrara.pdf)
+[Why the Federal Reserve Cuts Rates when Public Debt Rises](https://andreaferrara1997.github.io/files/JMP_AndreaFerrara.pdf) <br>
 <small>with <span class="archive__item-title" style="color:#52ADC8; text-decoration:underline;">Luca Zanotti</span></small>   
 *Abstract*: We document a new empirical fact: when the U.S. public debt-to-GDP ratio rises, the Federal Reserve tends to lower its policy rate, conditional on inflation and output. To explain this pattern, we develop and estimate a New Keynesian model with shocks to households’ demand for public debt. These shocks generate a negative comovement between public debt and the natural rate of interest, defined as the real rate that would prevail in the flexible-price economy. Assuming that the Federal Reserve adjusts its policy rate in line with the natural rate, this mechanism rationalizes the negative relationship between debt and the policy rate. We show that these shocks are a key driver of business-cycle fluctuations and that policy rules responding to the natural rate reduce the volatility of inflation and output relative to standard rules. We further construct a debt-informed measure of the natural rate using a time-varying parameter vector autoregression model. Once this measure is included in the policy rule, an increase in the debt-to-GDP ratio no longer reduces the federal funds rate, consistent with the mechanism highlighted by the model.    
 
