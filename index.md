@@ -9,7 +9,7 @@ I am a sixth year PhD candidate in Economics Northwestern University, working on
 
 My research focuses on macroeconomic dynamics, and monetary economics.
 
-I will be on the job market during the 2025-2026 academic year.
+I will be joining Bank of Italy in September 2026 as research fellow.
 
 Email: andr.ferrara1@gmail.com
 
