@@ -17,7 +17,7 @@ Email: andr.ferrara1@gmail.com
 
 # Job Market Paper
 [Why the Federal Reserve Cuts Rates when Public Debt Rises](https://andreaferrara1997.github.io/files/JMP_AndreaFerrara.pdf) &nbsp;&nbsp;&nbsp; [[slides](JM_Presentation_short)]<br>
-<small>with [Luca Zanotti](https://lzanotti1999.github.io)</span></small> 
+<small>with [Luca Zanotti](https://lzanotti1999.github.io)</small> 
 <details>
   <summary><em>Abstract</em></summary>
 
@@ -26,6 +26,8 @@ We document that, conditional on inflation and output, the Federal Reserve lower
   </p>
 
 </details>
+
+
 
 # Working Papers
 {% include workingpapers.md %}  
