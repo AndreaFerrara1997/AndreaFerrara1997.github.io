@@ -23,7 +23,7 @@ Why the Federal Reserve Cuts Rates when Public Debt Rises
 <small>with <a href="https://lzanotti1999.github.io" target="_blank" rel="noopener noreferrer"> Luca Zanotti </a></small>
 [ <a href="javascript:void(0)" onclick="document.getElementById('abstract-jmp').style.display =
 document.getElementById('abstract-jmp').style.display === 'none' ? 'block' : 'none';">Abstract</a>
-| <a href="JM_Presentation_short" target="_blank" rel="noopener noreferrer">Slides</a> ]
+| <a href="https://andreaferrara1997.github.io/files/JM_Presentation_short.pdf" target="_blank" rel="noopener noreferrer">Slides</a> ]
 
 <div id="abstract-jmp" style="display:none;">
 <p>
