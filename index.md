@@ -28,6 +28,28 @@ We document that, conditional on inflation and output, the Federal Reserve lower
 
 <br>
 
+<details style="display:inline;">
+  <summary style="display:inline; list-style:none; cursor:pointer;">
+    [abstract]
+  </summary>
+
+  <p>
+    We document that, conditional on inflation and output, the Federal Reserve lowers the policy rate when the U.S. public debt-to-GDP ratio rises. To explain this pattern, we develop and estimate a New Keynesian model with shocks to households’ demand for public debt. These shocks generate a negative comovement between public debt and the natural rate. If monetary policy tracks the natural rate, the model rationalizes the negative relationship between debt and the policy rate.
+  </p>
+
+  <p>
+    Consistent with this view, when a novel debt-informed natural rate measure is included in the policy rule, the debt-to-GDP ratio no longer explains variations in the policy rate.
+  </p>
+
+</details>
+
+&nbsp;|&nbsp;
+
+<a href="JM_Presentation_short" target="_blank" rel="noopener noreferrer">
+slides
+</a>
+
+
 # Working Papers
 {% include workingpapers.md %}  
 
