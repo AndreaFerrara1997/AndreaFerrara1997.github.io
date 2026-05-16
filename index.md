@@ -18,8 +18,8 @@ Email: andr.ferrara1@gmail.com
 # Job Market Paper
 <a href="https://andreaferrara1997.github.io/files/JMP_AndreaFerrara.pdf" target="_blank">
 Why the Federal Reserve Cuts Rates when Public Debt Rises
-</a><br>
-<small>with [Luca Zanotti](https://lzanotti1999.github.io)</small> <br>
+</a> <br>
+<small>with <a href="https://lzanotti1999.github.io" target="_blank"> Luca Zanotti </a></small> <br>
 [<label for="abstract-jmp" class="abstract-toggle">abstract</label>]
 [<a href="https://andreaferrara1997.github.io/files/JM_Presentation_short.pdf" target="_blank">slides</a>]
 
