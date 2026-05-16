@@ -41,3 +41,24 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.abstract-checkbox {
+  display: none;
+}
+
+.abstract-toggle {
+  cursor: pointer;
+}
+
+.abstract-toggle:hover {
+  text-decoration: underline;
+}
+
+.abstract-text {
+  display: none;
+  margin-top: 0.5em;
+}
+
+.abstract-checkbox:checked + .abstract-text {
+  display: block;
+}
