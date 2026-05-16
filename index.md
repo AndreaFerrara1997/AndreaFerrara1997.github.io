@@ -21,13 +21,6 @@ Why the Federal Reserve Cuts Rates when Public Debt Rises
 </a> &nbsp;&nbsp;&nbsp; <a href="https://andreaferrara1997.github.io/files/JM_Presentation_short.pdf" target="_blank" rel="noopener noreferrer">
 [slides] </a> <br>
 <small>with <a href="https://lzanotti1999.github.io" target="_blank" rel="noopener noreferrer"> Luca Zanotti </a></small>
-<details>
-  <summary><em>Abstract</em></summary>
-We document that, conditional on inflation and output, the Federal Reserve lowers the policy rate when the U.S. public debt-to-GDP ratio rises. To explain this pattern, we develop and estimate a New Keynesian model with shocks to households’ demand for public debt. These shocks generate a negative comovement between public debt and the natural rate. If monetary policy tracks the natural rate, the model rationalizes the negative relationship between debt and the policy rate. Consistent with this view, when a novel debt-informed natural rate measure is included in the policy rule, the debt-to-GDP ratio no longer explains variations in the policy rate.    
-</details>
-
-<br>
-
 [ <a href="javascript:void(0)" onclick="document.getElementById('abstract-jmp').style.display =
 document.getElementById('abstract-jmp').style.display === 'none' ? 'block' : 'none';">Abstract</a>
 | <a href="JM_Presentation_short" target="_blank" rel="noopener noreferrer">Slides</a> ]
