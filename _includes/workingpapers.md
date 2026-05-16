@@ -1,6 +1,6 @@
-[Cautious Monetary Policy](/files/Cautious_MP.pdf)  
+<a href="/files/Cautious_MP.pdf" target="_blank"> Cautious Monetary Policy <\a>
 July 2025 
   
-[Intra-Household Bargaining and Labor Market Outcomes - Evidence from Shared Parental Leave](/files/Parental_leave.pdf)   
+<a href="/files/Parental_leave.pdf" target="_blank"> Intra-Household Bargaining and Labor Market Outcomes - Evidence from Shared Parental Leave  <\a>
 <small>with [M. Hampole](https://www.menakahampole.com), and [J. Monteiro](https://sites.google.com/view/joao-cmonteiro/)</small>  
 December 2024
