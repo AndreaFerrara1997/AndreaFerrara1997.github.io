@@ -20,14 +20,12 @@ Email: andr.ferrara1@gmail.com
 <small>with [Luca Zanotti](https://lzanotti1999.github.io)</small> 
 <details>
   <summary><em>Abstract</em></summary>
-
   <p>
 We document that, conditional on inflation and output, the Federal Reserve lowers the policy rate when the U.S. public debt-to-GDP ratio rises. To explain this pattern, we develop and estimate a New Keynesian model with shocks to households’ demand for public debt. These shocks generate a negative comovement between public debt and the natural rate. If monetary policy tracks the natural rate, the model rationalizes the negative relationship between debt and the policy rate. Consistent with this view, when a novel debt-informed natural rate measure is included in the policy rule, the debt-to-GDP ratio no longer explains variations in the policy rate.    
   </p>
-
 </details>
 
-
+<br>
 
 # Working Papers
 {% include workingpapers.md %}  
