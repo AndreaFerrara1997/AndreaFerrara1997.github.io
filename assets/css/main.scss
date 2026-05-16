@@ -65,6 +65,8 @@
 
 summary {
   list-style: none;
+  display: inline;
+  cursor: pointer;
 }
 
 summary::-webkit-details-marker {
