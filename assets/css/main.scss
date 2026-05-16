@@ -62,3 +62,11 @@
 .abstract-checkbox:checked + .abstract-text {
   display: block;
 }
+
+summary {
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
