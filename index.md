@@ -16,12 +16,12 @@ Email: andr.ferrara1@gmail.com
 {% include cv.md %}
 
 # Job Market Paper
-<a href="https://andreaferrara1997.github.io/files/JMP_AndreaFerrara.pdf" target="_blank">
+<a href="https://andreaferrara1997.github.io/files/JMP_AndreaFerrara.pdf" target="_blank" rel="noopener noreferrer">
 Why the Federal Reserve Cuts Rates when Public Debt Rises
 </a> <br>
-<small>with <a href="https://lzanotti1999.github.io" target="_blank"> Luca Zanotti </a></small> <br>
+<small>with <a href="https://lzanotti1999.github.io" target="_blank" rel="noopener noreferrer"> Luca Zanotti </a></small> <br>
 <label for="abstract-jmp" class="abstract-toggle">[abstract]</label>
-[<a href="https://andreaferrara1997.github.io/files/JM_Presentation_short.pdf" target="_blank">slides</a>]
+[<a href="https://andreaferrara1997.github.io/files/JM_Presentation_short.pdf" target="_blank" rel="noopener noreferrer">slides</a>]
 
 <input type="checkbox" id="abstract-jmp" class="abstract-checkbox">
 
@@ -46,7 +46,7 @@ We document that, conditional on inflation and output, the Federal Reserve lower
 # Work in Progress
 <span class="archive__item-title" style="color:#52ADC8; text-decoration:underline;">When Lagged Observables Can (and Should) Be Used as Instruments</span> <span style="color:gray;">
 </span><br>
-<small>with [Michael Cai](https://www.michaelcai.com)</small>
+<small>with <a href="https://www.michaelcai.com" target="_blank" rel="noopener noreferrer"> Michael Cai </a></small>
 
 # Publications
 {% include publications.md %}
